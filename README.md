@@ -21,7 +21,7 @@ This is a simple number guessing game built using HTML, CSS, and JavaScript. The
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/number-guessing-game.git
+   git clone https://github.com/Prabhatmaurya3239/Guessing-Number-Game.git
    ```
 2. Navigate to the project folder:
    ```sh
